@@ -1,6 +1,5 @@
 # Priyanka Suruguri - Portfolio
-
-## Welcome to my portfolio repository! This repository showcases my professional experience, technical projects, and skills in data analysis, machine learning, and software development.
+-Welcome to my portfolio repository! This repository showcases my professional experience, technical projects, and skills in data analysis, machine learning, and software development.
 
 ## 📌 About Me
 -I am a Data Analyst with experience in data visualization, predictive modeling, and automation. With a strong foundation in SQL, Python, and cloud technologies (AWS, GCP), I specialize in transforming complex datasets into actionable insights. I am currently pursuing my Master of Science in Management Information Systems at the University of Memphis.
