@@ -38,8 +38,8 @@ I am a Data Analyst with experience in data visualization, predictive modeling, 
 - Project Management & Collaboration: JIRA, Trello, Asana, SharePoint, Git, Docker
 
 ## 📫 Contact
-- LinkedIn: linkedin.com/in/priyankasuruguri
-- GitHub: github.com/priyankasuruguri
+- LinkedIn: https://www.linkedin.com/in/priyanka-suruguri-b5246921a/ 
+- GitHub: https://github.com/PriyankaSuruguri
 - Email: priyankasuruguri22@gmail.com
 
 Feel free to explore my projects and reach out for collaboration opportunities!
