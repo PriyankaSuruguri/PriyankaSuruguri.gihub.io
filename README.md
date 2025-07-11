@@ -30,15 +30,6 @@ I am a Data Analyst with experience in data visualization, predictive modeling, 
 - Supported healthcare data analysis using R and Tableau; implemented regression models that improved forecast accuracy by 20% and reduced decision-making time by 25%.
 - Built an Azure Data Factory pipeline to automate CSV file transfers of hospital admission data from on-premises to ADLS and file shares, enhancing data availability.
 
-## 🚀 Projects
-
-## Facial Emotion Recognition System
-- Implemented a five-layer CNN for emotion classification using deep learning techniques.
-- Applied data augmentation and class imbalance handling to optimize model performance.
-- Image Classification with Python & Scikit-Learn
-- Developed an image classification model using NumPy, Matplotlib, and Scikit-Learn.
-- Improved accuracy via transfer learning and hyperparameter tuning.
-
 ## 🔧 Technical Skills
 - Programming: Python, R, SQL, Java, VBScript
 - Data Analysis & Visualization: Excel (Pivot Tables, VLOOKUPs, Macros), Tableau, Power BI, Looker
